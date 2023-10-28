@@ -1,8 +1,15 @@
 {
   "name": "qwik-blurhash",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Blurhash implementation for React",
   "keywords": ["blurhash", "blur", "hash", "image", "qwik", "component"],
+  "license": "MIT",
+  "author": "iamriajul",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamriajul/qwik-blurhash"
+  },
+  "homepage": "https://blurha.sh",
   "main": "./lib/index.qwik.mjs",
   "qwik": "./lib/index.qwik.mjs",
   "types": "./lib-types/index.d.ts",
