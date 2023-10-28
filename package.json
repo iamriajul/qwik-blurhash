@@ -1,6 +1,6 @@
 {
   "name": "qwik-blurhash",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Blurhash implementation for React",
   "keywords": ["blurhash", "blur", "hash", "image", "qwik", "component"],
   "license": "MIT",
